@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSC\\lesson1\\task1\\task1.csproj": {}
+    "C:\\VSC\\01_CSHARP\\lesson1\\task1\\task1.csproj": {}
   },
   "projects": {
-    "C:\\VSC\\lesson1\\task1\\task1.csproj": {
+    "C:\\VSC\\01_CSHARP\\lesson1\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSC\\lesson1\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\VSC\\01_CSHARP\\lesson1\\task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "C:\\VSC\\lesson1\\task1\\task1.csproj",
+        "projectPath": "C:\\VSC\\01_CSHARP\\lesson1\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
-        "outputPath": "C:\\VSC\\lesson1\\task1\\obj\\",
+        "outputPath": "C:\\VSC\\01_CSHARP\\lesson1\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
