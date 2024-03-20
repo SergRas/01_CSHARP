@@ -1,0 +1,14 @@
+C:\VSC\01_CSHARP\lesson1\dz1\bin\Debug\net7.0\dz1.exe
+C:\VSC\01_CSHARP\lesson1\dz1\bin\Debug\net7.0\dz1.deps.json
+C:\VSC\01_CSHARP\lesson1\dz1\bin\Debug\net7.0\dz1.runtimeconfig.json
+C:\VSC\01_CSHARP\lesson1\dz1\bin\Debug\net7.0\dz1.dll
+C:\VSC\01_CSHARP\lesson1\dz1\bin\Debug\net7.0\dz1.pdb
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\dz1.AssemblyInfoInputs.cache
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\dz1.AssemblyInfo.cs
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\dz1.csproj.CoreCompileInputs.cache
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\dz1.dll
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\refint\dz1.dll
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\dz1.pdb
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\dz1.genruntimeconfig.cache
+C:\VSC\01_CSHARP\lesson1\dz1\obj\Debug\net7.0\ref\dz1.dll
