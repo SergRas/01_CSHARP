@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+5vV+UURZZompBtqvPcSqPSW1Y0THIkq9Q6IV+95wQOAP5IgbjKYa6kcobqwyq2mSa3wTxom+BfzPvZkUaRMA==",
+  "dgSpecHash": "KNVIHR4xmXRQTJQsfhvEUoV4qgbsYIvZ6sYRayFBTyaMhvFlrZL3y2rKcCAVfl1cHSZUBWN/7Kk1BD5EdpW3kg==",
   "success": true,
-  "projectFilePath": "/home/rasserg/primer/01_CSHARP/lesson4/task1/task1.csproj",
+  "projectFilePath": "C:\\Users\\Serg\\Home\\01_CSHARP\\lesson4\\task1\\task1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
