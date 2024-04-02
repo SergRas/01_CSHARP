@@ -1,0 +1,15 @@
+/home/serg/home/01_CSHARP/task4/bin/Debug/net8.0/task4
+/home/serg/home/01_CSHARP/task4/bin/Debug/net8.0/task4.deps.json
+/home/serg/home/01_CSHARP/task4/bin/Debug/net8.0/task4.runtimeconfig.json
+/home/serg/home/01_CSHARP/task4/bin/Debug/net8.0/task4.dll
+/home/serg/home/01_CSHARP/task4/bin/Debug/net8.0/task4.pdb
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/task4.AssemblyInfoInputs.cache
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/task4.AssemblyInfo.cs
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/task4.csproj.CoreCompileInputs.cache
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/task4.sourcelink.json
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/task4.dll
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/refint/task4.dll
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/task4.pdb
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/task4.genruntimeconfig.cache
+/home/serg/home/01_CSHARP/task4/obj/Debug/net8.0/ref/task4.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pEBXII9YWxmQysuvOu87y/lm5OT5fc2rBHVE67SiKGMC9rnOaia3ieAeNJ2yyqyKliOz6CONjfVexi73nhUN+Q==",
+  "dgSpecHash": "BdKbaZmkRlxIHdx96G/YRi9MVv0sKAv/Dywje8N0NfktBOtA9s3RRRQnXhr/ngde5pTN2Q/H+EaqQJauZ70TTg==",
   "success": true,
-  "projectFilePath": "C:\\VSC\\01_CSHARP\\lesson1\\task4\\task4.csproj",
+  "projectFilePath": "/home/serg/home/01_CSHARP/task4/task4.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
