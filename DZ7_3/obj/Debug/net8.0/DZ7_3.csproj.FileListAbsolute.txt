@@ -1,0 +1,15 @@
+/home/serg/geekbrains/01_CSHARP/DZ7_3/bin/Debug/net8.0/DZ7_3
+/home/serg/geekbrains/01_CSHARP/DZ7_3/bin/Debug/net8.0/DZ7_3.deps.json
+/home/serg/geekbrains/01_CSHARP/DZ7_3/bin/Debug/net8.0/DZ7_3.runtimeconfig.json
+/home/serg/geekbrains/01_CSHARP/DZ7_3/bin/Debug/net8.0/DZ7_3.dll
+/home/serg/geekbrains/01_CSHARP/DZ7_3/bin/Debug/net8.0/DZ7_3.pdb
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/DZ7_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/DZ7_3.AssemblyInfoInputs.cache
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/DZ7_3.AssemblyInfo.cs
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/DZ7_3.csproj.CoreCompileInputs.cache
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/DZ7_3.sourcelink.json
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/DZ7_3.dll
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/refint/DZ7_3.dll
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/DZ7_3.pdb
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/DZ7_3.genruntimeconfig.cache
+/home/serg/geekbrains/01_CSHARP/DZ7_3/obj/Debug/net8.0/ref/DZ7_3.dll
