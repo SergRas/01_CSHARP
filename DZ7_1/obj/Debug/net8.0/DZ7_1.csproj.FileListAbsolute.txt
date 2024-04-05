@@ -1,0 +1,15 @@
+/home/serg/geekbrains/01_CSHARP/DZ7_1/bin/Debug/net8.0/DZ7_1
+/home/serg/geekbrains/01_CSHARP/DZ7_1/bin/Debug/net8.0/DZ7_1.deps.json
+/home/serg/geekbrains/01_CSHARP/DZ7_1/bin/Debug/net8.0/DZ7_1.runtimeconfig.json
+/home/serg/geekbrains/01_CSHARP/DZ7_1/bin/Debug/net8.0/DZ7_1.dll
+/home/serg/geekbrains/01_CSHARP/DZ7_1/bin/Debug/net8.0/DZ7_1.pdb
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/DZ7_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/DZ7_1.AssemblyInfoInputs.cache
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/DZ7_1.AssemblyInfo.cs
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/DZ7_1.csproj.CoreCompileInputs.cache
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/DZ7_1.sourcelink.json
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/DZ7_1.dll
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/refint/DZ7_1.dll
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/DZ7_1.pdb
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/DZ7_1.genruntimeconfig.cache
+/home/serg/geekbrains/01_CSHARP/DZ7_1/obj/Debug/net8.0/ref/DZ7_1.dll
