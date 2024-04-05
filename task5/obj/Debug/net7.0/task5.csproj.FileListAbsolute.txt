@@ -12,3 +12,11 @@ C:\VSC\01_CSHARP\lesson1\task5\obj\Debug\net7.0\refint\task5.dll
 C:\VSC\01_CSHARP\lesson1\task5\obj\Debug\net7.0\task5.pdb
 C:\VSC\01_CSHARP\lesson1\task5\obj\Debug\net7.0\task5.genruntimeconfig.cache
 C:\VSC\01_CSHARP\lesson1\task5\obj\Debug\net7.0\ref\task5.dll
+C:\Users\Serg\GeekBrains\01_CSHARP\task5\obj\Debug\net7.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serg\GeekBrains\01_CSHARP\task5\obj\Debug\net7.0\task5.AssemblyInfoInputs.cache
+C:\Users\Serg\GeekBrains\01_CSHARP\task5\obj\Debug\net7.0\task5.AssemblyInfo.cs
+C:\Users\Serg\GeekBrains\01_CSHARP\task5\obj\Debug\net7.0\task5.csproj.CoreCompileInputs.cache
+C:\Users\Serg\GeekBrains\01_CSHARP\task5\obj\Debug\net7.0\task5.sourcelink.json
+C:\Users\Serg\GeekBrains\01_CSHARP\task5\obj\Debug\net7.0\task5.dll
+C:\Users\Serg\GeekBrains\01_CSHARP\task5\obj\Debug\net7.0\refint\task5.dll
+C:\Users\Serg\GeekBrains\01_CSHARP\task5\obj\Debug\net7.0\task5.pdb
