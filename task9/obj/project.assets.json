@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/serg/.nuget/packages/": {}
+    "C:\\Users\\Serg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/serg/01_CSHARP/task9/task9.csproj",
+      "projectUniqueName": "C:\\Users\\Serg\\GeekBrains\\01_CSHARP\\task9\\task9.csproj",
       "projectName": "task9",
-      "projectPath": "/home/serg/01_CSHARP/task9/task9.csproj",
-      "packagesPath": "/home/serg/.nuget/packages/",
-      "outputPath": "/home/serg/01_CSHARP/task9/obj/",
+      "projectPath": "C:\\Users\\Serg\\GeekBrains\\01_CSHARP\\task9\\task9.csproj",
+      "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Serg\\GeekBrains\\01_CSHARP\\task9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/serg/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/239/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
